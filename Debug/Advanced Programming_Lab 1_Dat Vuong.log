@@ -1,0 +1,7 @@
+﻿  Game.cpp
+C:\Users\david\Desktop\Year 2 - Semester 2\Advanced Programming\Advanced Programming_Lab 1_Dat Vuong\Advanced Programming_Lab 1_Dat Vuong\Game.cpp(6,1): error C2084: function 'std::string Games::getName(void)' already has a body
+C:\Users\david\Desktop\Year 2 - Semester 2\Advanced Programming\Advanced Programming_Lab 1_Dat Vuong\Advanced Programming_Lab 1_Dat Vuong\Games.h(26): message : see previous definition of 'getName'
+C:\Users\david\Desktop\Year 2 - Semester 2\Advanced Programming\Advanced Programming_Lab 1_Dat Vuong\Advanced Programming_Lab 1_Dat Vuong\Game.cpp(11,1): error C2084: function 'std::string Games::getPlatform(void)' already has a body
+C:\Users\david\Desktop\Year 2 - Semester 2\Advanced Programming\Advanced Programming_Lab 1_Dat Vuong\Advanced Programming_Lab 1_Dat Vuong\Games.h(31): message : see previous definition of 'getPlatform'
+  Main.cpp
+  Generating Code...
